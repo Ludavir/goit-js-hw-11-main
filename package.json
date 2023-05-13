@@ -26,7 +26,7 @@
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.5",
     "react-infinite-scroll-component": "^6.1.0",
-    "simplelightbox": "^2.11.0"
+    "simplelightbox": "^2.14.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",

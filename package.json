@@ -5,7 +5,7 @@
   "homepage": "https://ludavir.github.io/goit-js-hw-11-main",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-main/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
